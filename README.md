@@ -1,2 +1,2 @@
 # Security-algorithms
-Implementing Security Algorithms using C#
+Implementing Security Algorithms(Encryption/Decryption/Analysis methods) using C#
