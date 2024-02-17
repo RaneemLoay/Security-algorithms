@@ -19,7 +19,7 @@ Implementing Security Algorithms(Encryption/Decryption/Analysis methods) using C
 - DiffieHellman
 
 # Team members :
-- [Aya Osama](https://github.com/)
+- [Aya Osama](https://github.com/aya-mourad)
 - [Doaa Elkhani](https://github.com/)
 - [Raneem Sherif](https://github.com/Raneeml)
 - [Raneem Loay](https://github.com/RaneemLoay)
